@@ -1,0 +1,10 @@
+-----------------------------------------
+|       Modname       |       ID        | 
+-----------------------------------------
+| Backpack            |     736236773   | 
+| Better Beacons 2.0  |     506506101   |
+| Editable Server UI  |     924619115   |
+| Personal Beacons    |     725488133   |
+| Teleport Pad v1.4   |     760067652   |
+| Structure Plus (S+) |     731604991   |
+| Reusable Plus       |     693416678   |
